@@ -1,0 +1,25 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# NuGet packages
+packages/
+
+# Database files (optional - uncomment if you want to include .mdf/.ldf files)
+*.mdf
+*.ldf
+
+# Connection strings (keep your connection string private!)
+appsettings.json
+appsettings.*.json
+
+# OS files
+.DS_Store
+Thumbs.db
